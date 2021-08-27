@@ -1,8 +1,8 @@
-# Dados
-## Os dados utilizados nas análises foram coletados no site [Dados Recife](http://dados.recife.pe.gov.br/dataset) da prefeitura da cidade.
+# Data
+## The data used in the analyses were collected in [Dados Recife](http://dados.recife.pe.gov.br/dataset).
 
-# Análises
-## Cada análise foi realizada com dados relativos a um período específico e esse atributo é levado em consideração.
+# Analyses
+## Each analysis was performed with data relating to a specific date.
 
-# Objetivos
-## Esse projeto tem como objetivo primordial me familiarizar com as ferramentas de análise e visualização de dados do Python, e como objetivo secundário analisar a evolução da vacinação contra a COVID-19 no Recife.
+# Goals
+## The primary goal of this project is to practice data analysis with Python and its incredibles data manipulation and visualization libraries, and the secondary goal is to understand how the government of my city handles the pandemic.
